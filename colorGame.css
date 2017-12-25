@@ -6,10 +6,6 @@ h1 {
   color: white;
 }
 
-span {
-  color: white;
-}
-
 .container {
   margin: 0 auto;
   max-width: 600px;
@@ -21,4 +17,11 @@ span {
   margin: 1.66%;
   padding-bottom: 30%;
   width: 30%;
+}
+
+.stripe {
+  background-color: white;
+  height: 30px;
+  text-align: center;
+  text-transform: uppercase;
 }
