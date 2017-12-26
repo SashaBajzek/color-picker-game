@@ -23,5 +23,12 @@ h1 {
   background-color: white;
   height: 30px;
   text-align: center;
+}
+
+button {
   text-transform: uppercase;
+}
+
+.selected {
+  background-color: blue;
 }
